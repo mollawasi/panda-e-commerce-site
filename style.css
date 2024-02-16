@@ -1,0 +1,66 @@
+.container {
+    margin-bottom: 100px;
+}
+
+.bg-color {
+    background-color: #fceae8;
+}
+
+.carousel-item {
+    padding: 20px 50px;
+}
+
+.price {
+    color: #ff136f;
+}
+
+.button {
+    background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+    color: white;
+    border-radius: 7px;
+    padding: 5px 10px;
+    cursor: pointer;
+    border: none;
+}
+
+.row img {
+    width: 100px;
+}
+
+.cat1,
+.cat2,
+.cat3 {
+    color: white;
+    padding: 10px 40px;
+    border-radius: 10px;
+}
+
+.cat1 {
+    background-color: rgb(250, 200, 107);
+}
+
+.cat2 {
+    background-color: rgb(252, 87, 114);
+}
+
+.cat3 {
+    background-color: blue;
+}
+.card img{
+    width: 350px;
+}
+.card{
+    box-shadow: 8px 8px 15px lightgray;
+    border: none;
+}
+#subscribe{
+    height: 300px;
+    border-radius: 10px;
+}
+#subscribe h5{
+    color: gray;
+}
+input{
+    border: none;
+    border-radius: 3px;
+}
